@@ -1,0 +1,10 @@
+/* "*" meche na pag inteira */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* tirar o ponto */
+ul{
+    list-style: none;
+}
